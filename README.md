@@ -105,7 +105,7 @@ python main.py --model dinov2_vits14 --no_whitening   # ablation
 `Runtime > Change runtime type > T4 GPU`, then in a cell:
 
 ```python
-!git clone https://github.com/<your-username>/ssl-watermarking-dinov2.git
+!git clone https://github.com/yassine11102003/ssl-watermarking-dinov2.git
 %cd ssl-watermarking-dinov2
 !pip install -r requirements.txt
 !python main.py --model dinov2_vits14 --debug
