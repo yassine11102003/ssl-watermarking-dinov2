@@ -1,0 +1,5 @@
+data/
+results/debug/
+results_full.log
+__pycache__/
+*.pyc
